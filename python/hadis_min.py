@@ -101,7 +101,7 @@ for line in hadis_clean:
     result = [sep+x for x in hadis_clean.split(sep)]
 
 
-with open('hadus_final.txt', 'w',  encoding='utf-8') as h_f:
+#with open('hadus_final.txt', 'w',  encoding='utf-8') as h_f:
     for x in range(len(result)): 
         r=result[x]
         print('\\bidi@newrobustcmd\\qurantext@i{%% %s}' % r, file=h_f) 

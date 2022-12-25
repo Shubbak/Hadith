@@ -91,7 +91,7 @@ with open("hadis_sauber.txt", 'w', encoding='utf-8') as output:
 # print (data.replace ('Narrated', '\n\nNarrated'))
 # list = np.array(data)
 
-\bidi@newrobustcmd\qurantext@i{% }
+
 
 
 
