@@ -19,7 +19,7 @@
 %%
 %% to one who has devoted his life to Quran
 %%
-\qt@newcmd\qurantext@i{بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\qt@no{﴿١﴾}}
+\qt@newcmd\qurantext@i{hallo}
 \qt@newcmd\qurantext@ii{ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ\qt@no{﴿٢﴾}}
 \qt@newcmd\qurantext@iii{ٱلرَّحْمَٰنِ ٱلرَّحِيمِ\qt@no{﴿٣﴾}}
 \qt@newcmd\qurantext@iv{مَٰلِكِ يَوْمِ ٱلدِّينِ\qt@no{﴿٤﴾}}
